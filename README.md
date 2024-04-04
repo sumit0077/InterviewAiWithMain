@@ -45,9 +45,3 @@ CSS
 JavaScript
 Contributing
 Contributions to InterviewAI are welcome! Please refer to the code of conduct and feel free to submit bug reports, feature requests, or pull requests.
-
-License
-InterviewAI is licensed under the MIT License.
-
-Contact
-For any inquiries or support, please reach out to us via email at shamimahmadup11@gmail.com.
